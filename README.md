@@ -1,9 +1,15 @@
-# Beyonder GmbH | Deutschland
+# .github
 
-Custom software and AI expertise – built in Europe, owned by you.
+Organization-wide defaults for the [beyonder-deutschland](https://github.com/beyonder-deutschland) GitHub organization.
 
-We are a build partner for established companies: around 250 specialists at locations across the Netherlands and Germany, building custom software and digital platforms.
+## Contents
 
-Here we share tools that grew out of our project work.
+| Path | Purpose |
+| --- | --- |
+| `profile/README.md` | Public organization profile, shown on [github.com/beyonder-deutschland](https://github.com/beyonder-deutschland) |
 
-🌐 [beyonder.eu](https://beyonder.eu)
+Community health files placed in this repository (e.g. `CONTRIBUTING.md`, `SECURITY.md`, `CODE_OF_CONDUCT.md`, issue and pull request templates) apply to every repository in the organization that does not define its own.
+
+## Editing the profile
+
+Change `profile/README.md` and push to `main` — GitHub updates the organization page immediately. The repository must stay public for the profile to be shown.
